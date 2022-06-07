@@ -5942,7 +5942,7 @@
 	},
 	{
 		"abr": "furret",
-		"price": -10,
+		"price": 2917,
 		"category": "Animal",
 		"defname": "TRAHS_FurretRace"
 	},
@@ -6194,7 +6194,7 @@
 	},
 	{
 		"abr": "bloodleech",
-		"price": -10,
+		"price": 0,
 		"category": "Alien raw fish",
 		"defname": "VCEF_BloodLeech"
 	},
@@ -6206,7 +6206,7 @@
 	},
 	{
 		"abr": "borealsardine",
-		"price": -10,
+		"price": 0,
 		"category": "Alien raw fish",
 		"defname": "VCEF_BorealSardine"
 	},
@@ -6266,7 +6266,7 @@
 	},
 	{
 		"abr": "duskysprat",
-		"price": -10,
+		"price": 0,
 		"category": "Alien raw fish",
 		"defname": "VCEF_DuskySprat"
 	},
@@ -6290,7 +6290,7 @@
 	},
 	{
 		"abr": "frostleaf",
-		"price": -10,
+		"price": 0,
 		"category": "Raw resources",
 		"defname": "AB_RawFrostLeaf"
 	},
@@ -6386,7 +6386,7 @@
 	},
 	{
 		"abr": "propanebag",
-		"price": -10,
+		"price": 0,
 		"category": "Alien raw fish",
 		"defname": "VCEF_PropaneBag"
 	},
@@ -6498,132 +6498,6 @@
 		"category": "Drugs",
 		"defname": "StabilizedFibrousMechanites"
 	},
-	{
-		"abr": "stabilizedsensorymechanites",
-		"price": 5833,
-		"category": "Drugs",
-		"defname": "StabilizedSensoryMechanites"
-	},
-	{
-		"abr": "strawberries",
-		"price": 2,
-		"category": "Vegetarian",
-		"defname": "CNS_Strawberries_RawStrawberries"
-	},
-	{
-		"abr": "strawberryelephant",
-		"price": 1000,
-		"category": "Animals",
-		"defname": "TRAHS_Elephant_Strawberry_Race"
-	},
-	{
-		"abr": "strawberrymuffalo",
-		"price": 500,
-		"category": "Animals",
-		"defname": "TRAHS_Muffalo_Strawberry_Race"
-	},
-	{
-		"abr": "sturgeon",
-		"price": 7,
-		"category": "Alien raw fish",
-		"defname": "VCEF_Sturgeon"
-	},
-	{
-		"abr": "sugarfamewort",
-		"price": 2,
-		"category": "Vegetarian",
-		"defname": "AB_RawSugarFamewort"
-	},
-	{
-		"abr": "synthdiamond",
-		"price": 67,
-		"category": "Raw resources",
-		"defname": "CarbonDiamond"
-	},
-	{
-		"abr": "table(1x1)",
-		"price": 70,
-		"category": "Furniture",
-		"defname": "Table_1x1c"
-	},
-	{
-		"abr": "tarshell",
-		"price": 92,
-		"category": "Mortar shells",
-		"defname": "AB_Shell_Tar"
-	},
-	{
-		"abr": "tentacularfruit",
-		"price": -10,
-		"category": "Vegetarian",
-		"defname": "AB_RawTentacularFruit"
-	},
-	{
-		"abr": "thickpeltarmor",
-		"price": 458,
-		"category": "Apparel",
-		"defname": "Gunmar_Apparel_ThickPeltArmor"
-	},
-	{
-		"abr": "uprightpiano",
-		"price": 908,
-		"category": "Furniture",
-		"defname": "Joy_Piano"
-	},
-	{
-		"abr": "warbow",
-		"price": 392,
-		"category": "Ranged weapons",
-		"defname": "Gunmar_War_Bow"
-	},
-	{
-		"abr": "wardrobe",
-		"price": 285,
-		"category": "Furniture",
-		"defname": "Table_Wardrobe"
-	},
-	{
-		"abr": "warrior'stribalwear",
-		"price": 211,
-		"category": "Apparel",
-		"defname": "Gunmar_Apparel_Tribal"
-	},
-	{
-		"abr": "weaponrack",
-		"price": 137,
-		"category": "Furniture",
-		"defname": "Shelf_WeaponRack"
-	},
-	{
-		"abr": "wovencap",
-		"price": 169,
-		"category": "Headgear",
-		"defname": "Gunmar_Apparel_WovenCap"
-	},
-	{
-		"abr": "wovenfootwraps",
-		"price": 148,
-		"category": "Apparel",
-		"defname": "Gunmar_Apparel_WovenFootWraps"
-	},
-	{
-		"abr": "wovenhandwraps",
-		"price": 106,
-		"category": "Apparel",
-		"defname": "Gunmar_Apparel_WovenHandWraps"
-	},
-	{
-		"abr": "wovenleggings",
-		"price": 236,
-		"category": "Apparel",
-		"defname": "Gunmar_Apparel_WovenLeggings"
-	},
-	{
-		"abr": "wovenmantle",
-		"price": 303,
-		"category": "Apparel",
-		"defname": "Gunmar_Apparel_WovenMantle"
-	}
 	],
 	"total": 1104
 }
